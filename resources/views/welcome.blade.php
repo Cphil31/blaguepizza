@@ -1,10 +1,10 @@
 @extends('layouts.layout1')
 
-@section('title', 'Page Title')
+@section('title', 'acceuil')
 
 @section('content')
   
-<div class="acceuil"></div>
+<div class="acceuil">Bienvenue</div>
 
  
 @endsection
