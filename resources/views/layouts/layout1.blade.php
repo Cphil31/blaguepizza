@@ -16,9 +16,11 @@
   <body>
 
     <div class="titre">Blague Pizza</div>
-    <a href="/">acceuil</a>
-    <a href="/pizzas">pizzas</a>
-    <a href="/pastas">pastas</a>
+    <div class="menu" >
+      <a href="/">acceuil</a>
+      <a href="/pizzas">pizzas</a>
+      <a href="/pastas">pastas</a>
+    </div>
     <div class="barre"></div>
     <div >
       @yield('content')
