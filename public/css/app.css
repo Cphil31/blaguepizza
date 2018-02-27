@@ -17,7 +17,7 @@ body {
 .acceuil{
 	text-align:center;
 	color:white;
-	font-size:2em;
+	font-size:1.6em;
 	background-color:red;
 	background-size: cover;
 }
@@ -26,17 +26,17 @@ a{
 }
 .menu{
 	text-align:center;
-	font-size:2em;
+	font-size:1.6em;
 }
 .pizzas{
 	text-align:center;
 	color:white;
-	font-size:2em;
+	font-size:1.6em;
 }
 .pastas{
 	text-align:center;
 	color:white;
-	font-size:2em;
+	font-size:1.6em;
 }
 .footer{
 	text-align:center;
