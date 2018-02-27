@@ -17,9 +17,10 @@
 
     <div class="titre">Blague Pizza</div>
     <div class="menu" >
-      <a href="/">acceuil</a>
-      <a href="/pizzas">pizzas</a>
-      <a href="/pastas">pastas</a>
+      <a href="/">Acceuil</a>
+      <a href="/pizzas">Pizzas</a>
+      <a href="/pastas">Pastas</a>
+      <a href="/contact">Contact</a>
     </div>
     
     <div >

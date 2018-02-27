@@ -1,9 +1,9 @@
 @extends('layouts.layout1')
 
-@section('title', 'pastas')
+@section('title', 'contact')
 
 @section('content')
   
-<div class="pizzas">Nos Pastas</div>
+<div class="pizzas">Contact</div>
 
 @endsection

@@ -20,3 +20,6 @@ Route::get('/pizzas',function(){
 Route::get('/pastas',function(){
 	return view('pastas'); 
 });
+Route::get('/contact',function(){
+	return view('contact'); 
+});
