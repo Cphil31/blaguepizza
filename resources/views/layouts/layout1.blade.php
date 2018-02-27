@@ -21,7 +21,7 @@
       <a href="/pizzas">pizzas</a>
       <a href="/pastas">pastas</a>
     </div>
-    <div class="barre"></div>
+    
     <div >
       @yield('content')
     </div>
