@@ -5,7 +5,8 @@
 @section('content')
   
 <div class="acceuil">Bienvenue</div>
-<div class="barre"></div>
+
+
 
  
 @endsection

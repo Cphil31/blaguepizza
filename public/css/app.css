@@ -21,6 +21,16 @@ body {
 	background-color:red;
 	background-size: cover;
 }
+.pizzas{
+	text-align:center;
+	color:white;
+	font-size:3.5em;
+}
+.pastas{
+	text-align:center;
+	color:white;
+	font-size:3.5em;
+}
 .barre{
 	background-color: white;
 	position: absolute;
