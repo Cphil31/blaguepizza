@@ -13,11 +13,11 @@
 		<div class="classiques">Les classiques</div>
 		<div class="pizza">
 			<div class="row">
-				<div class="col-6">MARGUERITA</div>
-				<div class="col-1">3,00€,</div>
-				<div class="col-1">5,50€,</div>
-				<div class="col-1">8,50€,</div>
-				<div class="col-1">13,50€.</div>
+				<div class="col">MARGUERITA</div>
+				<div class="col">3,00€,</div>
+				<div class="col">5,50€,</div>
+				<div class="col">8,50€,</div>
+				<div class="col">13,50€.</div>
 				
 			</div>
 		</div>
