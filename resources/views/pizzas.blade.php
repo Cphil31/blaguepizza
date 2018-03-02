@@ -1,4 +1,4 @@
-@extends('layouts.layout1')
+@extends('layouts.layout2')
 
 @section('title', 'pizzas')
 
@@ -130,20 +130,21 @@
 			<div class="compo"></div>
 			<div class="pizza"></div>
 			<div class="compo"></div>
-			<div class="pizza"></div>
-			<div class="compo"></div>
 
 			<div class="classiques">Les poissons</div>
 
 
 
 
-			<div class="classiques">Les épicées:
+			<div class="classiques">Les épicées:</div>
+
+			<div class="pizza">
+			CHORIZO ........................................................................................  5,50€ ..................  8,00€ ..................  11,00€ ................  16,00€
 			</div>
 
-			CHORIZO ........................................................................................  5,50€ ..................  8,00€ ..................  11,00€ ................  16,00€
-
-			Base tomate, chorizo, emmental, mozzarella, poivrons, olives
+			<div class="compo">
+				Base tomate, chorizo, emmental, mozzarella, poivrons, olives
+			</div>
 
 			ORIENTALE ..................................................................................... 5,50€ ..................  8,00€ ..................  11,00€ ................  16,00€
 

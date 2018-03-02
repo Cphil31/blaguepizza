@@ -6,4 +6,6 @@
   
 <div class="acceuil">Bienvenue</div>
 
+
+
 @endsection
