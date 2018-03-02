@@ -13,11 +13,12 @@
 		<div class="classiques">Les classiques</div>
 		<div class="pizza">
 			<div class="row">
-				<div class="col-5">MARGUERITA</div>
+				<div class="col">MARGUERITA</div>
 				<div class="col">3,00€,</div>
 				<div class="col">5,50€,</div>
 				<div class="col">8,50€,</div>
 				<div class="col">13,50€.</div>
+				<div class="col-2"></div>
 			</div>
 		</div>
 		<div class="compo">	
@@ -25,12 +26,12 @@
 		</div>
 		<div class="pizza">
 			<div class="row">	
-				<div class="col-5">BAMBINO</div>
+				<div class="col">BAMBINO</div>
 				<div class="col">3.50€</div>
 				<div class="col">6.00€</div>
 				<div class="col">9.00€</div>
 				<div class="col">14.00€</div>
-				
+
 			</div>
 		</div>
 		<div class="compo">
@@ -38,7 +39,7 @@
 		</div>
 		<div class="pizza">
 			<div class="row">
-				<div class="col-5">REGINA</div>
+				<div class="col">REGINA</div>
 				<div class="col">4.00€</div>
 				<div class="col">6.50€</div>
 				<div class="col">9.50€</div>
@@ -50,7 +51,7 @@
 		</div>
 		<div class="pizza">
 			<div class="row">
-				<div class="col-5">VEGETARIENNE</div>
+				<div class="col">VEGETARIENNE</div>
 				<div class="col">5,50€</div>
 				<div class="col">8,00€</div>
 				<div class="col">11.00€</div>
@@ -62,7 +63,7 @@
 		</div>
 		<div class="pizza">
 			<div class="row">
-				<div class="col-5">LORENZA</div>
+				<div class="col">LORENZA</div>
 				<div class="col">6.00€</div>
 				<div class="col">8.50€</div>
 				<div class="col">11.50€</div>
@@ -74,7 +75,7 @@
 		</div>
 		<div class="pizza"></div>
 		<div class="row">
-			<div class="col-5">FLAMMEKUECHE</div>
+			<div class="col">FLAMMEKUECHE</div>
 			<div class="col">4.50€</div>
 			<div class="col">7.00€</div>
 			<div class="col">10,00€</div> 
