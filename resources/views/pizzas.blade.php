@@ -18,7 +18,7 @@
 				Base tomate, emmental, olives
 			</div>
 			<div class="pizza">
-				BAMBINO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,50€,&nbsp;&nbsp;6,00,&nbsp;€&nbsp;9,00€,&nbsp;&nbsp;14,00€
+				BAMBINO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,50€,&nbsp;&nbsp;6,00€,&nbsp;&nbsp;9,00€,&nbsp;&nbsp;14,00€
 			</div>
 			<div class="compo">
 				Base tomate, jambon, emmental, olive	
