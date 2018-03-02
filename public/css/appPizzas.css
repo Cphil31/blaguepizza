@@ -42,6 +42,9 @@ a{
 	text-align: center;
 	margin: 2%;
 }
+.pizza{
+	margin-top: 1%;
+}
 .classiques{
 color: red;
 }
@@ -71,4 +74,7 @@ border-radius: 20px;
 .textcontact{
 	color: white;
 	text-align: center;
+}
+.prix{
+	float:left;
 }
