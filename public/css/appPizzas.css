@@ -6,12 +6,12 @@ body {
 	  margin: 0;
 	  padding: 0;
 	  position: relative;
-	  background-color: red;
+	  background-color: green;
 }
 .titre{
 	text-align:center;
 	font-size:3.5em;
-	background-color:green;
+	background-color:red;
 	color:white;
 }
 .acceuil{
@@ -41,15 +41,15 @@ color: red;
 	color:white;
 	font-size:1.6em;
 }
-.footer{
+
+.footer2{
 	margin-top: 4%;
 	text-align:center;
 	color:white;
 	font-size:3em;
-	background-color:green;
-	position: absolute; bottom: 0; left: 0; right: 0;
+	background-color:red;
+	/*position: absolute; bottom: 0; left: 0; right: 0;*/
 }
-
 .col-11{
 background-color: white;
 margin-top: 2.5%;
