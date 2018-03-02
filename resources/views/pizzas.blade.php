@@ -14,12 +14,11 @@
 			<div class="classiques">Les classiques</div>
 			<div class="pizza">
 				<div class="row">
-					<div class="col">MARGUERITA</div>
+					<div class="col-4">MARGUERITA</div>
 					<div class="col">3,00€,</div>
 					<div class="col">5,50€,</div>
 					<div class="col">8,50€,</div>
 					<div class="col">13,50€.</div>
-					
 					<div class="col"></div>
 				</div>
 			</div>
@@ -28,7 +27,7 @@
 			</div>
 			<div class="pizza">
 				<div class="row">	
-				<div class="col">BAMBINO</div>
+				<div class="col-4">BAMBINO</div>
 				<div class="col">3.50€</div>
 				<div class="col">6.00€</div>
 				<div class="col">9.00€</div>
@@ -40,7 +39,14 @@
 				Base tomate, jambon, emmental, olive	
 			</div>
 			<div class="pizza">
-				REGINA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4,00€ ..................  6,50€ .................. 9,50€ ..................  14,50€	
+				<div class="row">
+					<div class="col-4">REGINA</div>
+					<div class="col">4.00€</div>
+					<div class="col">6.50€</div>
+					<div class="col">9.50€</div>
+					<div class="col">14.50€</div>
+					<div class="col"></div>
+				</div>
 			</div>
 			<div class="compo">
 				Base tomate, champignons de paris, jambon, emmental, olives	
