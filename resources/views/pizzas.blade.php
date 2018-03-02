@@ -18,41 +18,41 @@
 				Base tomate, emmental, olives
 			</div>
 			<div class="pizza">
-				BAMBINO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;3,50€,&nbsp;&nbsp;6,00,&nbsp;€&nbsp;9,00€,&nbsp;&nbsp;14,00€
+				BAMBINO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,50€,&nbsp;&nbsp;6,00,&nbsp;€&nbsp;9,00€,&nbsp;&nbsp;14,00€
 			</div>
 			<div class="compo">
 				Base tomate, jambon, emmental, olive	
 			</div>
 			<div class="pizza">
-				REGINA............................................................................................ 4,00€ ..................  6,50€ .................. 9,50€ ..................  14,50€	
+				REGINA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4,00€ ..................  6,50€ .................. 9,50€ ..................  14,50€	
 			</div>
 			<div class="compo">
 				Base tomate, champignons de paris, jambon, emmental, olives	
 			</div>
 			<div class="pizza">
-				VEGETARIENNE ............................................................................. 5,50€ .................. 8,00€ .................. 11,00€ ................  16,00€
+				VEGETARIENNE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5,50€ .................. 8,00€ .................. 11,00€ ................  16,00€
 			</div>
 			<div class="compo">
 				Base tomate, champignons, emmental, tomates fraîches, poivrons, oignons, cœur d’artichaut, olives
 			</div>
 			<div class="pizza">
-				LORENZA ........................................................................................  6,00€ ..................  8,50€ ..................  11,50€ ................  16,50€
+				LORENZA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6,00€ ..................  8,50€ ..................  11,50€ ................  16,50€
 			</div>
 			<div class="compo">
 				Base crème, jambon, emmental, mozzarella, jambon de pays, olives
 			</div>
 			<div class="pizza"></div>
-			FLAMMEKUECHE............................................................................ 4,50€ ..................  7,00€ .................. 10,00€ ..................  15,00€ 
+			FLAMMEKUECHE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4,50€ ..................  7,00€ .................. 10,00€ ..................  15,00€ 
 			<div class="compo"></div>
 			Base crème, oignons lardons, emmental,  olives
 			<div class="pizza">
-				4 SAISONS ......................................................................................  5,00€ ..................  7,50€ ..................  10,50€ ..................  15,50€
+				4 SAISONS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  5,00€ ..................  7,50€ ..................  10,50€ ..................  15,50€
 			</div>
 			<div class="compo">	
 				Base tomate, champignons, emmental, jambon, tomates fraîches, cœur  d’artichaut, olives
 			</div>
 			<div class="pizza">	
-				PROVENCALE.................................................................................. 5,00€ ..................  7,50€ ..................  10,50€ ..................  15,50€
+				PROVENCALE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5,00€ ..................  7,50€ ..................  10,50€ ..................  15,50€
 			</div>
 			<div class="compo">
 				Base tomate, emmental, tomates fraîches, œuf, herbes de Provence,  persillade, olives
