@@ -6,14 +6,14 @@
 <div class="container">
 	<div class="row">
 		<div class="col"></div>
-		<div class="col-11">
+		<div class="col-8">
 			<div class="nospizzas">Nos Pizzas</div>
 			<div class="taillepizza">
-				TAILLE DES PIZZAS : ................................................ . 20cm............. 26cm.............. 33cm.............. 40cm
+				TAILLE DES PIZZAS : ............. . 20cm............. 26cm.............. 33cm.............. 40cm
 			</div> 
 			<div class="classiques">Les classiques</div>
 			<div class="pizza">
-			MARGUERITA................................................................................. 3,00€ ..................  5,50€ .................. 8,50€................... 13,50€</div>
+			MARGUERITA................ 3,00€ ..................  5,50€ .................. 8,50€................... 13,50€</div>
 			<div class="compo">	
 				Base tomate, emmental, olives
 			</div>
