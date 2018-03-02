@@ -29,6 +29,14 @@ a{
 	text-align:center;
 	font-size:1.6em;
 }
+.taillepizza{
+	text-align: center;
+	margin-bottom: 3%;
+}
+.compo{
+	font-size:90%; 
+	font-style: italic;
+}
 .nospizzas{
 	color: red;
 	text-align: center;
