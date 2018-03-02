@@ -33,15 +33,24 @@ a{
 	color:white;
 	font-size:1.6em;
 }
+.nospizzas{
+	color: white;
+	text-align: center;
+	margin: 2%;
+}
+.classiques{
+color: white;
+}
 .pastas{
 	text-align:center;
 	color:white;
 	font-size:1.6em;
 }
 .footer{
+	margin-top: 2.5%;
 	text-align:center;
 	color:white;
-	font-size:3.5em;
+	font-size:3em;
 	background-color:green;
-	position: absolute; bottom: 0; left: 0; right: 0;
+	/*position: absolute; bottom: 0; left: 0; right: 0;*/
 }
