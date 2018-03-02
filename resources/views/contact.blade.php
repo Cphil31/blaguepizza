@@ -4,6 +4,6 @@
 
 @section('content')
   
-<div class="pizzas">Contact</div>
+<div class="nospizzas">Contact</div>
 
 @endsection

@@ -1,4 +1,4 @@
-@extends('layouts.layout2')
+@extends('layouts.layoutpizzas')
 
 @section('title', 'pizzas')
 
