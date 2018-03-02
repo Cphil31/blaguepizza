@@ -29,12 +29,12 @@ a{
 	font-size:1.6em;
 }
 .nospizzas{
-	color: white;
+	color: red;
 	text-align: center;
 	margin: 2%;
 }
 .classiques{
-color: white;
+color: red;
 }
 .pastas{
 	text-align:center;
@@ -56,4 +56,9 @@ color: white;
 	font-size:3em;
 	background-color:green;
 	/*position: absolute; bottom: 0; left: 0; right: 0;*/
+}
+.col-11{
+background-color: white;
+margin-top: 2.5%;
+border-radius: 20px;
 }

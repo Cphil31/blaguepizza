@@ -6,7 +6,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col"></div>
-		<div class="col-10">
+		<div class="col-11">
 			<div class="nospizzas">Nos Pizzas</div>
 			<div class="taillepizza">
 				TAILLE DES PIZZAS : ................................................ . 20cm............. 26cm.............. 33cm.............. 40cm
