@@ -18,7 +18,7 @@
 				<div class="col">5,50€,</div>
 				<div class="col">8,50€,</div>
 				<div class="col">13,50€.</div>
-				<div class="col-2"></div>
+				<div class="col-3"></div>
 			</div>
 		</div>
 		<div class="compo">	
