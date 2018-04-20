@@ -304,4 +304,5 @@
 		<a href="/pizzas" style="font-size: 2.5em;"><i class="angle up icon" ></i></a>
        <!-- <a href="/pizza"><i class="angle double up icon"></i></a> -->
 	</div>
+	
 	@endsection

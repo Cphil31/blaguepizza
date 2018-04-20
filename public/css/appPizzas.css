@@ -8,10 +8,9 @@ body {
 .icon{
 	
 	color:red;
-	float :right;
 	position: absolute; 
 	bottom: 0;
-	right: 0;
+	right: 0.3;
 }
 .titre{
 	font-size:2em;
