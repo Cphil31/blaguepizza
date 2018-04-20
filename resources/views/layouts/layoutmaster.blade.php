@@ -19,15 +19,15 @@
 
   <div class="titre">
           <div class="row">
-            <div class="col-3"><a href="/" style="color:white;">Blague Pizza</a></div>
+            <div class="col-4"><a href="/" style="color:white;">Blague Pizza</a></div>
             <div class="col"></div>
-            <div class="col-1">
+            <div class="col-2">
               <a class="menu" href="/pizzas" style="color:white;">Pizzas</a>
             </div>
-            <div class="col-1">
+            <div class="col-2">
               <a class="menu" href="/pastas" style="color:white;">Pastas</a>
             </div>
-            <div class="col-1">
+            <div class="col-2">
               <a class="menu" href="/contact" style="color:white;">Contact</a>
             </div> 
             <div class="col-1"></div>
