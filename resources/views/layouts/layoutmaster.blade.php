@@ -17,7 +17,7 @@
 
   <div class="titre">
           <div class="row">
-            <div class="col-4"><a href="/" style="color:white;">Blague Pizza</a></div>
+            <div class="col-3"><a href="/" style="color:white;">Blague Pizza</a></div>
             <div class="col"></div>
             <div class="col-1">
               <a class="menu" href="/pizzas" style="color:white;">Pizzas</a>
