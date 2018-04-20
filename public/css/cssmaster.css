@@ -9,12 +9,10 @@ body {
 	  background-color: red;
 }
 .titre{
-	
 	font-size:2em;
 	background-color:green;
 	color:white;
-	border-radius: 0 0 15px 15px;
-}
+	}
 .acceuil{
 	text-align:center;
 	color:white;
