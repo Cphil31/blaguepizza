@@ -4,10 +4,10 @@ html {
   overflow: hidden;
 }
 body {
-	height: 100%;
-  	width: 100%;
-  	overflow: hidden;
-	background-color:green;
+	background-image: url("https://rawgit.com/Cphil31/blaguepizza/master/resources/cheese-cooking-cuisine-845811.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 198px;
 }
 .titre{
 	font-size:2em;
@@ -81,6 +81,7 @@ border-radius: 20px;
 	margin:2em;
 	color:white;
 	text-align: center;
+	background-color: green;
 }
 .prix{
 	float:left;

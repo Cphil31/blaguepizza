@@ -2,8 +2,10 @@ html {
   
 }
 body {
-	background-image: url("");
-    overflow: hidden;
+	background-image: url("https://rawgit.com/Cphil31/blaguepizza/master/resources/cheese-cooking-cuisine-845811.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 198px;
 
 }
 .titre{
@@ -13,7 +15,7 @@ body {
 }
 .fond{
 	background-color: red;
-	height:100vh;
+	
 }
 .menu{
 	text-align:center;
