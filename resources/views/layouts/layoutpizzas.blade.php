@@ -39,6 +39,7 @@
     <div >
       @yield('content')
     </div>
+    <!-- <a href="/pizzas" style="font-size: 2em;"><i class="angle double up icon" ></i></a> -->
 
    
 

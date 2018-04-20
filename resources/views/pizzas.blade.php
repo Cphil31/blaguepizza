@@ -295,13 +295,13 @@
 			<div class="compo">
 				Base crème, champignons, bœuf haché, oignons, sauce poivre, frites chips, olives
 			</div>
-			 
 		</div>
 
 	</div>
 
 	<div class="col-1">
-		
+			 
+		<a href="/pizzas" style="font-size: 2.5em;"><i class="angle up icon" ></i></a>
        <!-- <a href="/pizza"><i class="angle double up icon"></i></a> -->
 	</div>
 	@endsection
