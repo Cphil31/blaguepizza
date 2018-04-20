@@ -7,8 +7,8 @@
 	<div class="col-3"></div>
 	<div class="col">
 		
-		<div class="adresse">
-			<div>Adresse : 2 ,rue des tulipes  </div>
+		<div class="textcontact">
+			<div class="adresse">Adresse : 2 ,rue des tulipes  </div>
 			<div>téléphone : 07 62 15 18 32  </div>
 		</div>
 	</div>

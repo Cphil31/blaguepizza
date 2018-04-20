@@ -73,15 +73,17 @@ border-radius: 20px;
 	text-align: center;
 }
 .textcontact{
-	color: white;
-	text-align: center;
-}
-.adresse{
 	font-size: 2em;
 	margin:2em;
+	height: 100% ;
 	color:white;
 	text-align: center;
 	background-color: green;
+	padding: 1%;
+}
+.adresse{
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 .prix{
 	float:left;
