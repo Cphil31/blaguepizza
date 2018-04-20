@@ -4,7 +4,8 @@
 
 @section('content')
   
-<div class="acceuil">Bienvenue</div>
+<div class="acceuil">Bienvenue chez Blaguepizza</div>
+<div class="acceuil">Passez votre commande</div>
 
 
 

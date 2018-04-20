@@ -9,8 +9,8 @@ body {
 	  background-color: green;
 }
 .titre{
-	text-align:center;
-	font-size:3em;
+	
+	font-size:2em;
 	background-color:red;
 	color:white;
 	border-radius: 0 0 15px 15px;
@@ -27,7 +27,7 @@ a{
 }
 .menu{
 	text-align:center;
-	font-size:1.6em;
+	font-size:0.5em;
 }
 .taillepizza{
 	text-align: center;
@@ -60,7 +60,7 @@ a{
 	margin-top: 4%;
 	text-align:center;
 	color:white;
-	font-size:3em;
+	font-size:2em;
 	background-color:red;
 	/*position: absolute; bottom: 0; left: 0; right: 0;*/
 }

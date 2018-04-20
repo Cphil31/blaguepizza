@@ -15,19 +15,30 @@
 
   <body>
 
-    <div class="titre">Blague Pizza</div>
-    <div class="menu" >
-      <a href="/">Accueil</a>
-      <a href="/pizzas">Pizzas</a>
-      <a href="/pastas">Pastas</a>
-      <a href="/contact">Contact</a>
+    <div class="titre">
+
+    <div class="row">
+      <div class="col-3"><a href="/" style="color:white;">Blague Pizza</a></div>
+      <div class="col"></div>
+      <div class="col-1">
+          <a class="menu" href="/pizzas" style="color:white;">Pizzas</a>
+      </div>
+      <div class="col-1">
+          <a class="menu" href="/pastas" style="color:white;">Pastas</a>
+      </div>
+      <div class="col-1">
+          <a class="menu" href="/contact" style="color:white;">Contact</a>
+      </div>
+      <div class="col-1"></div>
+      
     </div>
+  </div>
     
     <div >
       @yield('content')
     </div>
 
-    <div class="footer"><a href="/contact">Contact</a></div>
+    <div class="footer2"><a href="/contact">Contact</a></div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
