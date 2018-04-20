@@ -2,43 +2,41 @@ html {
   height: 100%;
 }
 body {
-	  min-height: 100%;
-	  margin: 0;
-	  padding: 0;
-	  position: relative;
-	  background-color: red;
+	background-size: cover;
+    background-repeat: no-repeat;
+	background-image: url("https://cdn.pixabay.com/photo/2017/12/09/08/18/background-3007395_960_720.jpg");
 }
 .titre{
 	font-size:2em;
 	background-color:green;
 	color:white;
 }
+.fond{
+	background-color: red;
+	height:100vh;
+}
 .menu{
 	text-align:center;
 	font-size:0.5em;
 }
 .bienvenue{
-	margin-top:5%;
+	
 	text-align:center;
 	color:white;
 	font-size:3em;
-	background-color:red;
-	background-size: cover;
 }
 .passez{
 	margin-top:5%;
 	text-align:center;
 	color:white;
 	font-size:2em;
-	background-color:red;
-	background-size: cover;
+	
 }
 .regardez{
 	margin-top:5%;
 	text-align:center;
 	color:white;
 	font-size:3em;
-	background-color:red;
 	background-size: cover;
 }
 a{

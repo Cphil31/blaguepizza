@@ -6,7 +6,8 @@ body {
 	  margin: 0;
 	  padding: 0;
 	  position: relative;
-	  background-color: green;
+	  	  background-image: url("https://cdn.pixabay.com/photo/2017/12/09/08/18/background-3007395_960_720.jpg");
+
 }
 .titre{
 	font-size:2em;
