@@ -2,9 +2,7 @@ html {
   height: 100%;
 }
 body {
-	background-size: cover;
-    background-repeat: no-repeat;
-	background-image: url("https://cdn.pixabay.com/photo/2017/12/09/08/18/background-3007395_960_720.jpg");
+	background-color: red;
 }
 .titre{
 	font-size:2em;
@@ -20,7 +18,7 @@ body {
 	font-size:0.5em;
 }
 .bienvenue{
-	
+
 	text-align:center;
 	color:white;
 	font-size:3em;
@@ -63,7 +61,6 @@ color: red;
 	background-color:green;
 	position: absolute; bottom: 0; left: 0; right: 0;
 }
-
 .col-11{
 background-color: white;
 margin-top: 2.5%;

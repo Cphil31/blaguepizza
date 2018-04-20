@@ -2,12 +2,7 @@ html {
   height: 100%;
 }
 body {
-	  min-height: 100%;
-	  margin: 0;
-	  padding: 0;
-	  position: relative;
-	  	  background-image: url("https://cdn.pixabay.com/photo/2017/12/09/08/18/background-3007395_960_720.jpg");
-
+	  background-color: green;
 }
 .titre{
 	font-size:2em;
