@@ -19,6 +19,7 @@
 
   <div class="titre">
           <div class="row">
+            <div class="col-"></div>
             <div class="col-"><a href="/" style="color:white;">Blague Pizza</a></div>
             <div class="col"></div>
             <div class="col-2">
@@ -30,6 +31,7 @@
             <div class="col-2">
               <a class="menu" href="/contact" style="color:white;">Contact</a>
             </div> 
+            <div class="col-"></div>
           
       </div>
   </div>
