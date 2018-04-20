@@ -17,10 +17,27 @@ body {
 	text-align:center;
 	font-size:0.5em;
 }
-.acceuil{
+.bienvenue{
+	margin-top:5%;
 	text-align:center;
 	color:white;
-	font-size:1.6em;
+	font-size:3em;
+	background-color:red;
+	background-size: cover;
+}
+.passez{
+	margin-top:5%;
+	text-align:center;
+	color:white;
+	font-size:2em;
+	background-color:red;
+	background-size: cover;
+}
+.regardez{
+	margin-top:5%;
+	text-align:center;
+	color:white;
+	font-size:3em;
 	background-color:red;
 	background-size: cover;
 }
