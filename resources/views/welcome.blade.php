@@ -7,7 +7,7 @@
 <div class="col-2"></div>	
 <div class="col">
 	
-	<div class="fond">
+	<div class="col fond">
 
 		<div class="bienvenue">Bienvenue chez Blaguepizza</div>
 
