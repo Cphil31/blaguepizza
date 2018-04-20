@@ -19,7 +19,7 @@
 
   <div class="titre">
           <div class="row">
-            <div class="col-5"><a href="/" style="color:white;">Blague Pizza</a></div>
+            <div class="col-"><a href="/" style="color:white;">Blague Pizza</a></div>
             <div class="col"></div>
             <div class="col-2">
               <a class="menu" href="/pizzas" style="color:white;">Pizzas</a>
@@ -30,7 +30,7 @@
             <div class="col-2">
               <a class="menu" href="/contact" style="color:white;">Contact</a>
             </div> 
-            <div class="col-1"></div>
+          
       </div>
   </div>
 
