@@ -1,4 +1,4 @@
-@extends('layouts.layout1')
+@extends('layouts.layoutmaster')
 
 @section('title', 'pastas')
 
