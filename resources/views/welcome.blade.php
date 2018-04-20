@@ -21,7 +21,4 @@
 </div>
 <div class="col-2"></div>	
 </div>	
-<!-- source : https://pixabay.com/fr/arri%C3%A8re-plan-cuit-fromage-cercle-3007395/ -->
-
-
 @endsection
