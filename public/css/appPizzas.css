@@ -1,9 +1,9 @@
 
 body {
 	background-image: url("https://rawgit.com/Cphil31/blaguepizza/master/resources/cheese-cooking-cuisine-845811.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
+   	background-repeat: no-repeat;
     height: 100%;
+
 }
 .titre{
 	font-size:2em;

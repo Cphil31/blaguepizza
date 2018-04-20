@@ -14,32 +14,29 @@ body {
 	color:white;
 }
 .fond{
+	margin-top: 10%;
 	background-color: red;
-	
+	height: 80%;
+	color:white;
 }
 .menu{
 	text-align:center;
 	font-size:0.5em;
 }
 .bienvenue{
-	margin-top: 10%;
+	
 	text-align:center;
-	color:white;
-	font-size:3em;
+	font-size:2em;
 }
 .passez{
 	margin-top:5%;
 	text-align:center;
-	color:white;
 	font-size:2em;
 	
 }
 .regardez{
 	margin-top:5%;
-	text-align:center;
-	color:white;
-	font-size:3em;
-	background-size: cover;
+	text-align:center;	
 }
 a{
 	color: white;

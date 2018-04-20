@@ -10,6 +10,7 @@
 	<div class="fond">
 
 		<div class="bienvenue">Bienvenue chez Blaguepizza</div>
+
 		<div class="regardez">Regardez nos 
 			<a href="/pizzas" style="color: white;">Pizzas</a>
 			et 
