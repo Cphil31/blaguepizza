@@ -1,8 +1,13 @@
 html {
   height: 100%;
+  width: 100%;
+  overflow: hidden;
 }
 body {
-	  background-color:green;
+	height: 100%;
+  	width: 100%;
+  	overflow: hidden;
+	background-color:green;
 }
 .titre{
 	font-size:2em;
