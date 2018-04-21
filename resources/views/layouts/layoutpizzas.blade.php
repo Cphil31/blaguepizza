@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.3.1/dist/semantic.min.css">
   <!-- ccs local -->
   <link rel="stylesheet" type="text/css" href="../css/appPizzas.css">
+  <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="../css/telephone/pizzas.css">
   
   <title>Blague Pizza - @yield('title')</title>
 </head>
